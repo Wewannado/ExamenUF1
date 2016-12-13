@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExamenUF1</string>
+
+
+    <string-array name="tema">
+        <item>Sumes</item>
+        <item>Restes</item>
+        <item>Multiplicacions</item>
+        <item>Divisions</item>
+        <item>General</item>
+    </string-array>
+
+
+    <string-array name="numPreguntes">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+</resources>
