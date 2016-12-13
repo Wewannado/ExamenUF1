@@ -73,7 +73,7 @@ public class TestActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View view) {
         if(view.getId() == R.id.buttonSiguiente) {
             if(preguntaActual==llistaPreguntes.size()) {
-                Intent intent = new Intent(this, MainActivity.class);
+                Intent intent = new Intent(this, FiTestActivity.class);
                 startActivity(intent);
             }
         }
